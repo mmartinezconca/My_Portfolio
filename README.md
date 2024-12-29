@@ -17,4 +17,5 @@ Welcome to my data portfolio! Here, I document summaries for my different data p
 
 | Project Link | Area of Analysis | Project Description
 | --- | --- | ---|
+| FoodHub Data Analysis   | Exploratory Data Analysis (EDA)  | Enhanced FoodHub customer experience by analyzing restaurant demand
 | Geocoding World's Tallest Buildings | Geospatial Analysis | Used Geopy, a Python client used for geocoding services to geocode addresses of the World's tallest buildings
