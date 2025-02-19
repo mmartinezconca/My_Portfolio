@@ -19,3 +19,10 @@ Welcome to my data portfolio! Here, I document summaries for my different data p
 | --- | --- | ---|
 | FoodHub Data Analysis   | Exploratory Data Analysis (EDA)  | Enhanced FoodHub customer experience by analyzing restaurant demand
 | Geocoding World's Tallest Buildings | Geospatial Analysis | Used Geopy, a Python client used for geocoding services to geocode addresses of the World's tallest buildings
+
+## Power BI
+
+|  Project Link | Area of Analysis | Project Description
+| --- | --- | ---|
+| Maven Airlines Passenger Satisfcation Surevy Dashboard 2022 | Customer Survey Analysis | Identified the three in-flight services that caused the greatest customer dissatisfaction and gave recommendations for each
+
